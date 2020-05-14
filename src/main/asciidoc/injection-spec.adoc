@@ -1,4 +1,4 @@
-= Jakarta Dependency Injection 1.0
+= Jakarta Dependency Injection 2.0
 :authors: Jakarta Dependency Injection Team, https://projects.eclipse.org/projects/ee4j.cdi
 :email: https://accounts.eclipse.org/mailing-list/cdi-dev
 :version-label!:
